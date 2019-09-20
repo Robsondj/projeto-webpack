@@ -1,4 +1,4 @@
-# projeto-webpack
+# Projeto Webpack
 
 Projeto para entender o funcionamento do Webpack
 
